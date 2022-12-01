@@ -6,7 +6,7 @@
   <img src="texttopanorama.mov" width="48.0%"/>
 </p>
 
- *Running `Text to Image` scene*
+ *Running `Text to Image` scene and `Text to 3D Skybox` scene* 
 
  ## Overview
 This is a simple DALL·E API wrapper that implements the API calls found in the OpenAI API Reference as Coroutines and Async functions. Additionally, there are 3 finished sample scenes for reference.
