@@ -2,7 +2,7 @@
 # DALL·E API x Unity Game Engine 
 
 <p float="center">
-  <img src="texttoimg.mov" width="50.0%" />
+  <img src="texttoimg.mov" width="50.0%"/>
 </p>
 
  *Running `Text to Image` scene*
@@ -51,9 +51,11 @@ This project contains the following 3 scenes:
 
 `Outpainting` uses a Unity-specific implementation of ["outpainting"](https://openai.com/blog/dall-e-introducing-outpainting/)
 
+*After setting the prompt press the generate button. It will fetch data from OpenAI server. You can not set the prompt again until you reset. But you can generate/(enlarge existing image) as much as you want from the same prompt and existing image.*
+
 `Text to 3D Skybox` creates panorama via Outpainting (be very intentional with prompting) (W.I.P.)
 
-`Skybox Result` is a scene with the last generated panorama (W.I.P.)
+`Skybox Result` has the last generated panorama (W.I.P.)
 
 
 The above scenes can be located in `Projects >> Assets >> Scenes`
