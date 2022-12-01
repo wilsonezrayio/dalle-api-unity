@@ -1,11 +1,5 @@
 
 # DALL·E API x Unity Game Engine 
-
-<p float="center">
-  <img src="texttoimg.mov" width="48.0%" />
-</p>
-
-`Text to Image` scene
  
 
  ## Overview
