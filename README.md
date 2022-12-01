@@ -1,7 +1,7 @@
 
 # DALL·E API x Unity Game Engine 
 
-![App Screenshot](texttoimg.mov)*Running `Text to Image` scene*
+![App Screenshot](texttoimg.mov){width="50%"} *Running `Text to Image` scene*
 
  ## Overview
 This is a simple DALL·E API wrapper that implements the API calls found in the OpenAI API Reference as Coroutines and Async functions. Additionally, there are 3 finished sample scenes for reference.
